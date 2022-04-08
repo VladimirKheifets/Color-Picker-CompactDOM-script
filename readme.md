@@ -19,7 +19,7 @@ Copyright &copy; 2022 Vladimir Kheifets All Rights Reserved
 <html>
 <head>
 <script type="text/javascript" src="CompactDOM.min.js"></script>
-<script type="text/javascript" src="js/index.js"></script>
+<script type="text/javascript" src="js/index.min.js"></script>
 </head>
 <body></body>
 </html>
