@@ -75,7 +75,7 @@ __.ready( () => {
 
 	/*
 	The 'create' method creates five child elements 'span' in the parent element 'divColorPicker'
-	<div id="color_picker"></div>
+	<div id="color_picker">
 		<span class="bgc" title="Click me">
 		<span class="bgc" title="Click me">
 		<span class="bgc" title="Click me">
